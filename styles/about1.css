@@ -1,0 +1,8 @@
+body{
+  background: url(../Images/confectionary.png);
+}
+div{
+  height: 525px;
+  width: 350px;
+  display: inline-block;
+}

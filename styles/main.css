@@ -1,0 +1,12 @@
+img{
+  height: 400px;
+  width: 50%;
+  margin: 30px auto 0;
+  padding-left: 50px;
+}
+body{
+  background: url(../Images/sayagata-400px.png);
+}
+p{
+  color: Red;
+}

@@ -4,14 +4,34 @@ footer{
   left: 0;
 }
 body{
-background: url("https://pbs.twimg.com/profile_images/2755581203/5132114fa443a764659c419d2eb6e64c_400x400.png") no-repeat center;
-text-color: Black;
-}
- P{
-Color: Black;
+background: url(../Images/fresh_snow.png);
+margin: 0 auto;
 }
 img{
   height:450px;
   width: 450px;
+  border-radius: 50%;
+  shape-outside: circle(50%);
+  float: left;
+}
 
+li{
+  display:inline-block;
+}
+.copyright{
+  display:inline-block;
+  
+}
+.social-links{
+  display: inline-block;
+
+}
+@media screen and (max-width: 760px) {
+  img{
+    display: block;
+}
+  p {
+      text-align: center;
+      color: blue;
+  }
 }

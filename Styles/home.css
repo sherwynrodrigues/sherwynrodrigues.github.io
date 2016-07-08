@@ -23,6 +23,10 @@ footer{
 .social-links{
   display: inline-block;
 }
+footer a img{
+  border-radius: 50%;
+  width: 125px;
+}
 li{
   display: inline-block;
 }

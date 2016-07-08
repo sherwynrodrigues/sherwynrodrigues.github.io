@@ -1,3 +1,7 @@
 body{
   background: url(../Images/eight_horns.png) fixed right top;
 }
+footer a img{
+  border-radius: 50%;
+  width: 125px;
+}

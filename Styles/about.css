@@ -6,8 +6,9 @@ footer{
 .social-links img{
   border-radius: 50%;
   width: 125px;
-  height:125px;
-  bottom: 0;
+  height:auto;
+  float: none;
+
 }
 body{
 background: url(../Images/fresh_snow.png);

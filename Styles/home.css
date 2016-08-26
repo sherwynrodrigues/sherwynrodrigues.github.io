@@ -3,13 +3,17 @@ body{
 }
 .motivationalquote{
   display: inline-block;
-  width: 50%;
+  text-align: center;
+  border:dashed;
 }
 .poem{
-  display: inline-block;
-  float: right;
-  width: 45%;
-
+display: inline-block;
+border:solid;
+}
+.half{
+  width:50%;
+  float: left;
+  text-align: center;
 }
 footer{
   position:fixed;
